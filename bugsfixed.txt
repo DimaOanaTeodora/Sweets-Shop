@@ -1,0 +1,7 @@
+-vezi tot comments controller--refacut
+-nu merge faza cu comentariul (aia sa dea warning cand il dai gol)----reparat
+-nu merge stergerea de categorii--reparat
+-produsele nu au buton de stergere------reparat (nu e din view)
+-butonul inapoi la produse nu e stilizat
+-produsele nu au buton de editare---------reparat (nu e din view)
+-nu merge vizualizarea de utilizatori de la admin--------reparat

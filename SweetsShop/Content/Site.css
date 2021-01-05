@@ -1,0 +1,112 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Crete+Round&display=swap');
+body {
+    background-image: url('/Files/cover5.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.5;
+    color: #f5f6f7;
+   
+}
+
+.body-content {
+    padding-left: -5px;
+    padding-right: -5px;
+    padding-top: 40px;
+    min-height: 460px;
+}
+
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.navbar {
+    background-color: #9AECDB;
+    border: none;
+    box-shadow: 0 10px 10px #D6A2E8;
+    color: #182C61;
+    font-size: x-small;
+}
+
+.navbar a 
+{
+        color: #2c2c2c;
+}
+
+.navbar a:hover
+{
+            color: #5cb85c;
+}
+
+
+
+.container-fluid {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+hr {
+    border: 3px solid #D6A2E8;
+    border-radius: 5px;
+}
+h1, h2, h3 {
+    
+    color: #f5f6f7;
+    font-family: 'Crete Round', serif;
+    font-size: 2.5em;
+}
+h2, h3 {
+    font-size: 1.5em;
+}
+.col-md-3 {
+    background-color: #D6A2E8;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 10px 0px;
+   
+}
+
+.card .card-block {
+ 
+   max-height: 418px;
+    overflow: auto;
+}
+.starFade {
+    background-image: url('/Files/StarFade.gif');
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.starFadeN {
+    background-image: url('/Files/StarFade.gif');
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+.starGlow {
+    background-image: url('/Files/StarGlow.gif');
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.starGlowN {
+    background-image: url('/Files/StarGlow.gif');
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}

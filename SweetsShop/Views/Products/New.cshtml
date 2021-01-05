@@ -1,0 +1,52 @@
+﻿@model SweetsShop.Models.Product
+
+
+<h1>Adăugare produs</h1>
+<hr />
+
+@using (Html.BeginForm("New", "Products", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary(false, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+
+    @Html.Label("ProductName", "Nume produs")
+    <br />
+    @Html.TextBox("ProductName", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.ProductName, null, new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+    <br /><br />
+
+    @Html.Label("ProductDescription", "Descriere produs")
+    <br />
+    @Html.TextArea("ProductDescription", null, new { @class = "form-control", style = "min-height: 200px;" })
+    @Html.ValidationMessageFor(m => m.ProductDescription, null, new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+    <br /><br />
+
+    @Html.Label("ProductPrice", "Pret (in lei)")
+    <br />
+    @Html.TextArea("ProductPrice", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.ProductPrice, null, new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+    <br /><br />
+
+    @Html.Label("ProductStoc", "Stoc disponibil")
+    <br />
+    @Html.TextArea("ProductStoc", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.ProductStoc, null, new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+
+    <br /><br />
+
+    <label>Selectati categoria</label>
+    @Html.DropDownListFor(m => m.CategoryId, new SelectList(Model.Categ, "Value", "Text"),
+        "Selectati categoria", new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.CategoryId, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+    <br />
+    <br />
+
+    @Html.Label("Photo", "Alegeți o poză")
+
+    <input type="file" name="uploadedFile" />
+    
+  
+    //@Html.ValidationMessageFor(m => m.Photo, null, new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+    <br /><br />
+
+    <button class="btn btn-lg btn-success" style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" type="submit">Adaugă produs</button>
+}

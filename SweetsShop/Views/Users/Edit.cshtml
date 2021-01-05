@@ -1,0 +1,54 @@
+﻿@model SweetsShop.Models.ApplicationUser
+
+<h1>Editare utilizator</h1>
+<hr />
+
+@using (Html.BeginForm(actionName: "Edit", controllerName: "Users", routeValues: new { id = @Model.Id }))
+{
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    <br />
+
+    <i class="glyphicon glyphicon-user"></i>
+    @Html.Label("UserName", "Nume utilizator", new { @class = "" })
+
+    <br />
+    <div style="color: #6D214F;">
+        @Html.EditorFor(m => m.UserName)
+    </div>
+
+    <br />
+
+    <i class="glyphicon glyphicon-envelope"></i>
+    @Html.Label("Email", "Email utilizator", new { @class = "" })
+
+    <br />
+    <div style="color: #6D214F;">
+        @Html.EditorFor(m => m.Email)
+    </div>
+
+        <br />
+
+        <i class="glyphicon glyphicon-phone"></i>
+        @Html.Label("PhoneNumber", "Numar telefon")
+
+        <br />
+        <div style="color: #6D214F;">
+            @Html.EditorFor(m => m.PhoneNumber)
+        </div>
+
+            <br />
+
+            <i class="glyphicon glyphicon-th-list"></i>
+            <label>Selectati rolul</label>
+            @Html.DropDownList("newRole", new SelectList(Model.AllRoles, "Value", "Text", ViewBag.userRole), null, new { @class = "form-control" })
+
+            <br />
+
+            <button class="btn btn-lg btn-success" style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" type="submit">
+                Modifică datele utilizatorului
+            </button>
+
+
+ }
+

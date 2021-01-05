@@ -1,0 +1,130 @@
+﻿@model SweetsShop.Models.Product
+@using Microsoft.AspNet.Identity
+
+
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+
+    <title>Sweets Shop</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="~/Content/cover.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+</head>
+<body>
+
+
+    <!-- First Container -->
+    <div class="container-fluid bg-1 text-center">
+
+
+
+        @if (Request.IsAuthenticated)
+        {
+            <h1 style="font-size: 35px;">
+                Bine ai venit
+                @if (Request.IsAuthenticated)
+                {
+                    @:, @User.Identity.GetUserName()
+                }
+                !
+            </h1>
+
+            using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+            {
+                @Html.AntiForgeryToken()
+
+                <a href="javascript:document.getElementById('logoutForm').submit()" class="btn btn-primary btn-lg">
+                    Log off
+                </a>
+
+            }
+
+        }
+        @if (!Request.IsAuthenticated)
+        {
+            <h1 class="margin">
+                Bine ai venit!
+
+            </h1>
+            <input type="button" class="btn btn-primary btn-lg" value="Log in" onclick="location.href='@Url.Action("Login", "Account")'" />
+        }
+
+        <img src="~/Files/logogif.gif" class="img-responsive clearfix" style="display: inline;" alt="Sweets Shop" width="350" height="350">
+
+        <h2>Galaxia dulciurilor <3</h2>
+        <a class="btn btn-primary btn-lg" href="/Products/Index">Către galaxie</a>
+
+    </div>
+    
+    <!-- Second Container -->
+    <div class="container-fluid bg-2 text-center">
+        <h2 class="margin">Cine suntem noi?</h2>
+        <p>
+            Sweets Shop este un butic cu o tradiţie de peste două secole. Povestea sa începe în 1777,
+            când Bekir Effendi a început să pregătească o brioșă pentru curtea regelui.
+            Magazinul de brioșe şi alte dulciuri se află în zona Pieței Victoriei, din București.
+            Acum, afacerea este gestionată de doi descendenți ai primului proprietar.
+            Chiar dacă toate minunăţiile din magazinul de dulciuri pot fi comandate online,
+            sfatul general este ca fiecare să vina să le încerce chiar acolo.
+            Magazinul şi-a păstrat aerul de odinioară.
+            Pe lângă tradiţionala brioșă cu cremă de brânză, se găsesc şi tot felul de bomboane,
+            halva, biscuiţi şi prăjituri.
+        </p>
+
+    </div>
+
+    <!-- Third Container (Grid) -->
+    <div class="container-fluid bg-3 text-center">
+        <h3 class="margin">Vă așteptăm nerăbdători :)</h3>
+        <div class="row">
+            <div class="col-sm-4 pull-left">
+                <h3>Descoperă produse</h3>
+                <a class="btn btn-primary btn-lg btn-block" href="/Products/Index">Afișare produse</a>
+
+            </div>
+            @if (!Request.IsAuthenticated)
+            {
+                <div class="col-sm-4">
+                    <h3>Devino client</h3>
+                    <input type="button" class="btn btn-primary btn-lg btn-block" value="Register" onclick="location.href='@Url.Action("Register", "Account")'" />
+
+
+                </div>
+            }
+            <div class="col-sm-4 pull-right">
+                <h3>Tipuri de prăjituri</h3>
+                <a class="btn btn-primary btn-lg btn-block" href="/Categories/Index">Afișare categorii</a>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+    <!-- Footer -->
+    <footer class="container-fluid bg-4 text-center">
+        <p>&copy; @DateTime.Now.Year - Dima Oana & Bădescu Gabriel</p>
+        <p>
+            Ne găsiți pe:
+            <a href="https://www.facebook.com/cofetariiledelice.ro"><img src="/Files/fb.png" width="5%" height="5%" /></a>
+            <a href="https://www.instagram.com/cofetariile_delice/"><img src="/Files/insta.png" width="5%" height="5%" /></a>
+        </p>
+    </footer>
+
+</body>
+</html>
+

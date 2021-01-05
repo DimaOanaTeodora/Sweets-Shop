@@ -1,0 +1,86 @@
+﻿
+
+<h1>Cereri adăugare produse</h1>
+<h2>@ViewBag.Message</h2>
+<hr />
+
+
+@foreach (SweetsShop.Models.Product product in ViewBag.Products)
+{
+    if (product.Request == false)
+    {
+        <div class="col-md-4 text-center">
+             
+             
+
+            <div style="background-color: #6D214F; box-shadow:0px 4px 4px 4px #D6A2E8;">
+                <h2>
+                    @product.ProductName
+                </h2>
+
+                <span style="color:#fed330;">Colaboratorul: <b>@product.User.UserName</b></span>
+                <br />
+                <img src=@product.Photo width="30%" />
+
+                <h4>
+                    <b> Categorie:</b> @product.Category.CategoryName
+                </h4>
+
+                Preț: <strong> @product.ProductPrice</strong> lei
+            <br />
+            <i>
+                Disponibilitate:
+                @if (product.ProductStoc == 0)
+                {
+                    @: nu sunt produse disponibile
+                }
+                else
+                 if (product.ProductStoc == 1)
+                {
+                    @: un singur produs disponibil
+                }
+                else
+                {
+                    <strong> @product.ProductStoc</strong> @:produse disponibile
+                }
+            </i>
+            <br />
+           
+        
+
+                <br />
+      
+                @using (Html.BeginForm(actionName: "ValidateRequest", controllerName: "Products", method: FormMethod.Post, routeValues: new { id = product.ProductId }))
+                {
+
+                    <button class="btn btn-danger btn-lg btn-block" type="submit">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bookmark-check-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M2 15.5V2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.74.439L8 13.069l-5.26 2.87A.5.5 0 0 1 2 15.5zm8.854-9.646a.5.5 0 0 0-.708-.708L7.5 7.793 6.354 6.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0l3-3z" />
+                        </svg>
+                        Aprobă produs
+
+                    </button>
+                }
+
+                @using (Html.BeginForm(actionName: "Delete1", controllerName: "Products", method: FormMethod.Post, routeValues: new { id = product.ProductId }))
+                {
+                    @Html.HttpMethodOverride(HttpVerbs.Delete)
+
+                    <button class="btn btn-danger btn-lg btn-block" type="submit">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bookmark-dash-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M2 15.5V2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.74.439L8 13.069l-5.26 2.87A.5.5 0 0 1 2 15.5zM6 6a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1H6z" />
+                        </svg>
+                        Șterge produs
+
+                    </button>
+                }
+
+                <div class="clearfix"></div>
+            </div>
+       
+      </div>
+  }
+}
+
+
+

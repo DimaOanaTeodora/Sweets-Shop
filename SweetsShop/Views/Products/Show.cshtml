@@ -1,0 +1,244 @@
+﻿@model SweetsShop.Models.Product
+</br>
+
+
+@Html.ValidationSummary(false, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+<div class="text-center">
+    <h2>
+        @Model.ProductName
+    </h2>
+
+    <img src=@Model.Photo width="30%" />
+    <h4>
+        <b> Categorie:</b> @Model.Category.CategoryName
+    </h4>
+    Preț: <strong> @Model.ProductPrice</strong> lei
+    <br />
+    <i>
+        Disponibilitate:
+        @if (Model.ProductStoc == 0)
+        {
+            @: nu sunt produse disponibile
+        }
+        else
+        if (Model.ProductStoc == 1)
+        {
+            @: un singur produs disponibil
+        }
+        else
+        {
+            <strong> @Model.ProductStoc</strong> @:produse disponibile
+        }
+    </i>
+    <br />
+    <p>@Model.ProductDescription</p>
+
+    @for (var i = 1; i <= Math.Floor(Model.ProductRating); i++)
+    {
+        <span class="starGlowN"></span>
+    }
+    @for (var i = (Math.Floor(Model.ProductRating) + 1); i <= 5; i++)
+    {
+        <span class="starFadeN"></span>
+    }
+</div>
+<hr />
+<div style="background-color: #3B3B98;">
+    <p class="text-center"> Adăugat de : <strong>@Model.User.UserName </strong></p>
+</div>
+@if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent && ViewBag.esteColaborator || ViewBag.esteAdmin)
+{
+    <div>
+        <a class="btn btn-success pull-left btn-block" style="background-color: #25CCF7;" href="/Products/Edit/@Model.ProductId">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-brush" viewBox="0 0 16 16">
+                <path d="M15.825.12a.5.5 0 0 1 .132.584c-1.53 3.43-4.743 8.17-7.095 10.64a6.067 6.067 0 0 1-2.373 1.534c-.018.227-.06.538-.16.868-.201.659-.667 1.479-1.708 1.74a8.117 8.117 0 0 1-3.078.132 3.658 3.658 0 0 1-.563-.135 1.382 1.382 0 0 1-.465-.247.714.714 0 0 1-.204-.288.622.622 0 0 1 .004-.443c.095-.245.316-.38.461-.452.393-.197.625-.453.867-.826.094-.144.184-.297.287-.472l.117-.198c.151-.255.326-.54.546-.848.528-.739 1.2-.925 1.746-.896.126.007.243.025.348.048.062-.172.142-.38.238-.608.261-.619.658-1.419 1.187-2.069 2.175-2.67 6.18-6.206 9.117-8.104a.5.5 0 0 1 .596.04zM4.705 11.912a1.23 1.23 0 0 0-.419-.1c-.247-.013-.574.05-.88.479a11.01 11.01 0 0 0-.5.777l-.104.177c-.107.181-.213.362-.32.528-.206.317-.438.61-.76.861a7.127 7.127 0 0 0 2.657-.12c.559-.139.843-.569.993-1.06a3.121 3.121 0 0 0 .126-.75l-.793-.792zm1.44.026c.12-.04.277-.1.458-.183a5.068 5.068 0 0 0 1.535-1.1c1.9-1.996 4.412-5.57 6.052-8.631-2.591 1.927-5.566 4.66-7.302 6.792-.442.543-.796 1.243-1.042 1.826a11.507 11.507 0 0 0-.276.721l.575.575zm-4.973 3.04l.007-.005a.031.031 0 0 1-.007.004zm3.582-3.043l.002.001h-.002z" />
+            </svg>
+            Modifică
+            produs
+        </a>
+        @using (Html.BeginForm(actionName: "Delete", controllerName: "Products", method: FormMethod.Post, routeValues: new { id = @Model.ProductId }))
+        {
+            @Html.HttpMethodOverride(HttpVerbs.Delete)
+            <button class="btn btn-danger pull-right btn-block" style="background-color: #25CCF7" type="submit">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
+                    <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0z" />
+                </svg>
+                Șterge
+                produs
+            </button>
+        }
+
+        <div class="clearfix"></div>
+    </div>
+}
+@if (!User.IsInRole("Admin") && !User.IsInRole("Colaborator"))
+{
+    using (Html.BeginForm(actionName: "Add", controllerName: "Orders", method: FormMethod.Post, routeValues: new { id = Model.ProductId }))
+    {
+
+        <button class="btn btn-danger center-block btn-block" type="submit">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart-plus-fill" viewBox="0 0 16 16">
+                <path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1H.5zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zM9 5.5V7h1.5a.5.5 0 0 1 0 1H9v1.5a.5.5 0 0 1-1 0V8H6.5a.5.5 0 0 1 0-1H8V5.5a.5.5 0 0 1 1 0z"></path>
+            </svg>
+        </button>
+
+    }
+}
+
+<hr />
+<div style="background-color: #3B3B98;">
+    <h2 class="text-center">Reviews</h2>
+</div>
+<hr />
+@{ var ratingSum = ViewBag.RatingSum;
+    var ratingCount = ViewBag.RatingCount;
+
+    float rating = 0;
+    if (ratingCount > 0)
+    {
+        rating = (ratingSum / ratingCount);
+
+    }
+    var totalRating = float.Parse(rating.ToString());
+
+}
+
+<br />
+@foreach (var comm in Model.Comments)
+{
+    <div style="background-color: #3B3B98;">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <div>
+                    <p>@comm.Content</p>
+                    <small class="pull-right">@comm.Date</small>
+                    @for (var i = 1; i <= comm.Rating; i++)
+                    {
+                        <span class="starGlowN"></span>
+                    }
+                    @for (var i = (comm.Rating + 1); i <= 5; i++)
+                    {
+                        <span class="starFadeN"></span>
+                    }
+                    <i class="glyphicon glyphicon-user"></i> <i>scris de</i> <strong> @comm.User.UserName </strong>
+                </div>
+                @if (comm.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+                {
+                    <div style="display: inline-block; float : left; margin-right: 15px">
+                        <a class="glyphicon glyphicon-pencil" href="/Comments/Edit/@comm.CommentId"></a>
+                    </div>
+
+                    <div style="display: inline-block; float : left">
+                        <form method="post" action="/Comments/Delete/@comm.CommentId">
+                            @Html.HttpMethodOverride(HttpVerbs.Delete)
+                            <button class="glyphicon glyphicon-trash" style="border: none; background: transparent" type="submit"></button>
+                        </form>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+    <hr />
+}
+@{
+    int ok = 0;
+    foreach (var comm in Model.Comments)
+    {
+        if (comm.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+        {
+            ok = 1;
+        }
+    }
+    if (ok == 0)
+    {
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-8">
+                    <div style="background-color: #9AECDB; color: #6D214F;">
+                        <form method="post" action="/Products/Show/@Model.ProductId">
+                            <div class="panel-body">
+                                <div class="form-group">
+                                    <label class="col-md-4 control-label">
+                                        Your rating <span style="font-weight:normal;">(1 start is bad, 5 star is good)</span>
+                                    </label>
+                                    <div class="col-md-7">
+                                        <div onmouseout="CRateSelected()">
+                                            <span class="starFade" id="Rate1" onclick="CRate(1)" onmouseover="CRateOver(1)" onmouseout="CRateOut(1)"></span><span class="starFade" id="Rate2" onclick="CRate(2)" onmouseover="CRateOver(2)" onmouseout="CRateOut(2)"></span><span class="starFade" id="Rate3" onclick="CRate(3)" onmouseover="CRateOver(3)" onmouseout="CRateOut(3)"></span><span class="starFade" id="Rate4" onclick="CRate(4)" onmouseover="CRateOver(4)" onmouseout="CRateOut(4)"></span><span class="starFade" id="Rate5" onclick="CRate(5)" onmouseover="CRateOver(5)" onmouseout="CRateOut(5)"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <input type="hidden" name="Rating" id="Rating" value="0" />
+                                <input type="hidden" name="ProductId" value="@Model.ProductId" />
+                                <label for="inputlg">Conținut comentariu</label>
+                                <br />
+                                <textarea class="form-control input-lg" name="Content"></textarea>
+                                @Html.ValidationMessage("Content", "", new { style = "color:#ff0000; font-style: italic;" })
+                                <br />
+                                <button class="btn btn-success " style="background-color: #6D214F;" type="submit">
+                                    Adaugă comentariu
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>} }
+<script>
+    function SubmitComment() {
+        if ($("#Rating").val() == "0") {
+            alert("Please rate this service provider.");
+            return false;
+        }
+        else {
+            return true;
+        }
+    }
+
+    function CRate(r) {
+        $("#Rating").val(r);
+        for (var i = 1; i <= r; i++) {
+            $("#Rate" + i).attr('class', 'starGlow');
+        }
+        // unselect remaining
+        for (var i = r + 1; i <= 5; i++) {
+            $("#Rate" + i).attr('class', 'starFade');
+        }
+    }
+
+    function CRateOver(r) {
+        for (var i = 1; i <= r; i++) {
+            $("#Rate" + i).attr('class', 'starGlow');
+        }
+    }
+
+    function CRateOut(r) {
+        for (var i = 1; i <= r; i++) {
+            $("#Rate" + i).attr('class', 'starFade');
+        }
+    }
+
+    function CRateSelected() {
+        var setRating = $("#Rating").val();
+        for (var i = 1; i <= setRating; i++) {
+            $("#Rate" + i).attr('class', 'starGlow');
+        }
+    }
+</script>
+<script>
+    function SCRate() {
+        for (var i = 1; i <= @ViewBag.Rating; i++) {
+            $("#sRate" + i).attr('class', 'starGlowN');
+        }
+    }
+    $(function(){
+        SCRate();
+    });
+</script>
+

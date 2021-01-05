@@ -1,0 +1,21 @@
+﻿
+<h1>Produse sortate descrescător după rating</h1>
+<hr />
+<a class="btn btn-primary btn-lg" style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" href="/Products/Index">
+    Înapoi
+</a>
+<hr />
+<br />
+
+<div class="row">
+    @foreach (SweetsShop.Models.Product product in ViewBag.Products)
+    {
+        if (product.Request == true)
+        {
+
+            @Html.Partial("ProductInfo", product)
+
+        }
+    }
+</div>
+

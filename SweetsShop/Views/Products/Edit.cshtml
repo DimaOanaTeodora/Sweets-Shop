@@ -1,0 +1,54 @@
+﻿@model SweetsShop.Models.Product
+
+<h1>Editare produs</h1>
+<hr/>
+@using (Html.BeginForm("Edit", "Products", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary(false, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    @Html.HiddenFor(m => m.ProductId)
+    <br />
+    @Html.Label("ProductName", "Nume Produs")
+    <br />
+    <div style="color: #6D214F;">
+        @Html.EditorFor(m => m.ProductName)
+        @Html.ValidationMessageFor(m => m.ProductName, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+        <br /><br />
+     </div>
+        @Html.Label("ProductDescription", "Descriere produs")
+        <br />
+        @Html.Editor("ProductDescription", new { htmlAttributes = new { @class = "form-control", style="min-height: 200px;" } })
+        @Html.ValidationMessageFor(m => m.ProductDescription, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+        <br /><br />
+
+        @Html.Label("ProductPrice", "Pret produs (in lei)")
+        <br />
+        @Html.Editor("ProductPrice", new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(m => m.ProductPrice, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+        <br /><br />
+
+        @Html.Label("ProductStoc", "Stoc")
+        <br />
+        @Html.Editor("ProductStoc", new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(m => m.ProductStoc, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+        <br /><br />
+
+        <label>Selectati categoria</label>
+        @Html.DropDownListFor(m => m.CategoryId,
+                new SelectList(Model.Categ, "Value", "Text"),
+                "Selectati categoria", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.CategoryId, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+        <br />
+        <br />
+
+
+        <label>Alegeți o poză</label>
+        <input type="file" name="uploadedFile" />
+
+        <br /><br />
+
+        <button class="btn btn-sm btn-success" style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" type="submit">Modifică produs</button>
+        }
+

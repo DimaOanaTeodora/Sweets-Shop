@@ -1,0 +1,76 @@
+﻿
+<div class="col-md-3">
+    <div class="card text-center">
+        <div class="card-block">
+            <div class="card-header">
+                <h3>
+                    @Model.ProductName
+                </h3>
+            </div>
+            <img class="card-img-top" src=@Model.Photo width="200px" height="180px">
+
+            <div class="card-body">
+                <h4 class="card-subtitle text-muted">
+                    Categorie: @Model.Category.CategoryName
+                </h4>
+                @for (var i = 1; i <= Math.Floor(Model.ProductRating); i++)
+                {
+                    <span class="starGlowN"></span>
+                }
+                @for (var i = (Math.Floor(Model.ProductRating) + 1); i <= 5; i++)
+                {
+                    <span class="starFadeN"></span>
+                }
+                Pret: <strong> @Model.ProductPrice</strong> lei
+                <br />
+                <small>
+                    Disponibilitate:
+                    @if (Model.ProductStoc == 0)
+                    {
+                        @: nu sunt produse disponibile
+                    }
+                    else
+                    if (Model.ProductStoc == 1)
+                    {
+                        @: un singur produs disponibil
+                    }
+                    else
+                    {
+                        <strong> @Model.ProductStoc</strong> @:produse disponibile
+                    }
+                </small>
+                <br />
+
+
+            </div>
+        </div>
+        <div class="clearfix">
+            <a class="btn btn-sm btn-lg btn-success pull-left" style="background-color: #FD7272;" href="/Products/Show/@Model.ProductId"> 
+            Afișare produs
+            </a>
+
+
+            @if (!User.IsInRole("Admin") && !User.IsInRole("Colaborator"))
+            {
+                using (Html.BeginForm(actionName: "Add", controllerName: "Orders", method: FormMethod.Post, routeValues: new { id = Model.ProductId }))
+                {
+
+                    <button class="btn btn-danger pull-right" style="background-color: #6D214F;" type="submit">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart-plus-fill" viewBox="0 0 16 16">
+                            <path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1H.5zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zM9 5.5V7h1.5a.5.5 0 0 1 0 1H9v1.5a.5.5 0 0 1-1 0V8H6.5a.5.5 0 0 1 0-1H8V5.5a.5.5 0 0 1 1 0z"></path>
+                        </svg>
+
+                    </button>
+
+                }
+            }
+        </div>
+
+    </div>
+
+</div>
+            
+       
+
+    
+

@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweets Shop</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    @Styles.Render("~/Content/Site.css")
+
+
+</head>
+<body>
+    
+
+     
+        <div class="navbar navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+
+                </div>
+
+                <div class="navbar-collapse collapse">
+                    <img src="~/Files/logogif.gif" class="pull-left" onclick="location.href='@Url.Action("Index", "Home")'" width="7%" />
+
+                    <ul class="nav navbar-nav">
+
+                        <li>@Html.ActionLink("Produse", "Index", "Products")</li>
+                        <li>@Html.ActionLink("Categorii", "Index", "Categories")</li>
+
+                        @if (User.IsInRole("Colaborator") || User.IsInRole("Admin"))
+                        {
+                            <li>@Html.ActionLink("+ produs", "New", "Products")</li>
+                        }
+
+                        @if (User.IsInRole("Admin"))
+                        {
+
+                            <li>@Html.ActionLink("+ categorie", "New", "Categories")</li>
+                            <li>@Html.ActionLink("Utilizatori", "Index", "Users")</li>
+
+                        }
+
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li> @Html.ActionLink("Cereri", "Requests", "Products")</li>
+                        }
+                        @if (User.IsInRole("User"))
+                        {
+                            <li><a href="@Url.Action("MyCart", "Orders")" class="glyphicon glyphicon-shopping-cart"> Coș</a></li>
+                        }
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>
+
+        <div class="container body-content">
+            @RenderBody()
+
+
+        </div>
+        <hr />
+        <footer class="container-fluid bg-4 text-center">
+            <p>&copy; @DateTime.Now.Year - Dima Oana & Bădescu Gabriel</p>
+            <p>
+                Ne găsiți pe:
+                <a href="https://www.facebook.com/cofetariiledelice.ro"><img src="/Files/fb.png" width="5%" height="5%" /></a>
+                <a href="https://www.instagram.com/cofetariile_delice/"><img src="/Files/insta.png" width="5%" height="5%" /></a>
+            </p>
+
+        </footer>
+
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+
+</html>

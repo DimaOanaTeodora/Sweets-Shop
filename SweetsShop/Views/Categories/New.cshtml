@@ -1,0 +1,22 @@
+﻿@model SweetsShop.Models.Category
+
+<h1>Adăugare categorie</h1>
+<hr/>
+
+@using (Html.BeginForm(actionName: "New", controllerName: "Categories"))
+{
+    @Html.ValidationSummary(false, "", new { style = "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+
+    @Html.Label("CategoryName", "Denumire categorie")
+    <br />
+   
+    <div style="color: #6D214F;">
+        @Html.TextBox("CategoryName", null, new { @class = "form-control" })
+
+        @Html.ValidationMessageFor(m => m.CategoryName, null, new {style= "color: #F8EFBA;text-shadow: 2px 2px #ff0000; font-style: italic;" })
+        <br /><br />
+
+    </div>
+
+        <button class="btn btn-success" style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" type="submit">Adaugă categorie</button>
+ }

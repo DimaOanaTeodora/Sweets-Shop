@@ -1,0 +1,1605 @@
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Desktop\SweetsShop\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Desktop\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Gabri\Desktop\facultate\DAW\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Downloads\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Desktop\imagini 2\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Downloads\SWS_REQ\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Gabri\Desktop\facultate\DAW\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Downloads\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Desktop\cos\final\SweetsShop2\SweetsShop2\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Owin.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\WebGrease.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Gabri\Desktop\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Downloads\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Desktop\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Owin.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\WebGrease.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Gabri\Desktop\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll.config
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\SweetsShop.pdb
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Owin.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.Migrations.Initial.resources
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.dll
+C:\Users\Lenovo\Desktop\penumultimul\fin\rating\Sweets-Shop-ASP.NET--main\SweetsShop\obj\Debug\SweetsShop.pdb

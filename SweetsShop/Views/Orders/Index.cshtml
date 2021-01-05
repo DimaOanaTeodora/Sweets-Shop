@@ -1,0 +1,51 @@
+﻿@model SweetsShop.Models.Order
+<div class="col-md-4">
+    <br />
+    <br />
+
+    <a class="btn btn-primary btn-lg" style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" href="/Products/Index">
+        Înapoi la produse
+    </a>
+
+    @{SweetsShop.Models.Order 
+       order = ViewBag.Orders;
+        double total=0;
+        if (order.UserId == ViewBag.utilizatorCurent)
+        {
+    <h1> ID comandă #:<i>@order.OrderId</i></h1>
+    foreach (SweetsShop.Models.Product product in ViewBag.Products)
+    {
+    <div style="background-color: #574b90; max-width:400px; padding: 10px 10px 10px 10px;">
+        Produs: @product.ProductName
+        <br />
+        <i class="glyphicon glyphicon-tag"></i>
+        @{total = total + @product.ProductPrice * @ViewBag.Count[product.ProductId];
+        }
+        Pret: <strong> @product.ProductPrice lei</strong>
+        <br />
+        Cantitate: <strong>@ViewBag.Count[product.ProductId]</strong>
+        <hr />
+    </div>
+    }
+    }
+
+
+    <div>
+        <h3>Total: <strong> @total lei</strong></h3>
+        @using (Html.BeginForm(actionName: "Delete", controllerName: "Orders", method: FormMethod.Post, routeValues: new { id = order.OrderId }))
+        {
+            @Html.HttpMethodOverride(HttpVerbs.Delete)
+            <button class="btn btn-danger btn-lg" style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" type="submit">
+                Confirmă comanda
+            </button>
+        }
+    </div>
+    }
+
+</div>
+<div class="col-md-8">
+    <br />
+    <br />
+    <br />
+    <img src="~/Files/logo.png" class="img-fluid" style="width: 100%" />
+</div>

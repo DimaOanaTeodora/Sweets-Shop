@@ -1,0 +1,15 @@
+﻿@model SweetsShop.Models.Category
+
+<h1>@Model.CategoryName</h1>
+
+<form method="post" action="/Categories/Delete/@Model.CategoryId">
+
+    @Html.HttpMethodOverride(HttpVerbs.Delete)
+    
+    <button class="btn btn-success"style="background-color: #25CCF7; box-shadow: 0 10px 10px #D6A2E8;" type="submit">
+    Sterge categoria
+    </button>
+
+</form>
+
+

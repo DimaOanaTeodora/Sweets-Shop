@@ -1,0 +1,15 @@
+﻿
+
+<h2>Index</h2>
+
+<h2>Upload File</h2>
+
+
+@using (Html.BeginForm("Upload", "FileUpload", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <label>Alegeti un fisier</label>
+    <input type="file" name="uploadedFile" />
+    <br />
+    <input type="submit" value="Upload" />
+}
+
