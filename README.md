@@ -7,7 +7,7 @@ Sweets Shop is a boutique with a tradition of over two centuries. His story begi
 Features:
 - 4 types of users: unregistered user, registered user, collaborator, administrator
 - the collaborator can add products to the store. Will send additional requests to the administrator, and the administrator can reject them or approve. After approval, the products can be viewed in the store
-- products are part of categories (created dynamically - the admin can be CRUDE (create, update, delete) by categories)
+- products are part of categories (created dynamically - the admin can create, read, update, delete by categories)
 - a product has a title, description, picture, price, rating (1-5 stars), reviews from the user side
 - the collaborator can edit and delete the products added by him
 - the unregistered user will be redirected to create an account when try adding a product to the cart. When he has no account, he can only view products and their associated comments
