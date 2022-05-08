@@ -1,6 +1,12 @@
 # Sweets-Shop :cupcake:
 Web applications development (second year uni course)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61749814/167293609-ac815f8b-8215-4f2e-aafe-e2db6a8faaf9.png" width="500" height="300" />
+ <img src="https://user-images.githubusercontent.com/61749814/167293634-5500ff15-66ff-44f1-ac61-dc43c5d7b2aa.png" width="500" height="300" />
+</p>
+
+
 ## :candy: ASP.NET MVC5
 
 Sweets Shop is a boutique with a tradition of over two centuries. His story begins in 1777, when Bekir Effendi began preparing a muffin for the king's court. The muffin and other sweets store is located in the area of Victoriei Square, in Bucharest. Now, the business is run by two descendants of the first owner. Even if all the wonders in the candy store can be ordered online, the general advice is for everyone to come and try them right there. The store has kept its old air. In addition to the traditional cheese cream muffin, there are also all kinds of candies, halva, biscuits and cakes.
