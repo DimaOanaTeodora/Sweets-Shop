@@ -1,4 +1,5 @@
 # Sweets-Shop :cupcake:
+Web applications development (second year uni course)
 
 ## :candy: ASP.NET MVC5
 
